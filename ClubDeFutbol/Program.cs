@@ -22,7 +22,7 @@ class Program
             {
                 new Jugador("#1 Ter Stegen", "Portero"), new Jugador("#13 Iñaki Peña", "Portero"), new Jugador("#25 Wojciech Szcesny", "Portero"),
                 new Jugador("#2 Pau Cubarsí", "Defensa"), new Jugador("#3 Alejandro Balde", "Defensa"), new Jugador("#4 Ronald Araujo", "Defensa"),
-                new Jugador("#5 Iñigo Martínez", "Defensa"), new Jugador("Marcos Alonso", "Defensa"), new Jugador("Eric García", "Defensa"),
+                new Jugador("#5 Iñigo Martínez", "Defensa"), new Jugador("#23 Jules Koundé", "Defensa"), new Jugador("Eric García", "Defensa"),
                 new Jugador("Pedri", "Centrocampista"), new Jugador("Gavi", "Centrocampista"), new Jugador("De Jong", "Centrocampista"),
                 new Jugador("Romeu", "Centrocampista"), new Jugador("Sergi Roberto", "Centrocampista"), new Jugador("Fermín", "Centrocampista"),
                 new Jugador("Lewandowski", "Delantero"), new Jugador("Ferran Torres", "Delantero"), new Jugador("Raphinha", "Delantero"),
