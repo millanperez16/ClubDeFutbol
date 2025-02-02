@@ -22,22 +22,22 @@ class Program
             {
                 new Jugador("#1 Ter Stegen", "Portero"), new Jugador("#13 Iñaki Peña", "Portero"), new Jugador("#25 Wojciech Szcesny", "Portero"),
                 new Jugador("#2 Pau Cubarsí", "Defensa"), new Jugador("#3 Alejandro Balde", "Defensa"), new Jugador("#4 Ronald Araujo", "Defensa"),
-                new Jugador("#5 Iñigo Martínez", "Defensa"), new Jugador("#23 Jules Koundé", "Defensa"), new Jugador("Eric García", "Defensa"),
-                new Jugador("Pedri", "Centrocampista"), new Jugador("Gavi", "Centrocampista"), new Jugador("De Jong", "Centrocampista"),
-                new Jugador("Romeu", "Centrocampista"), new Jugador("Sergi Roberto", "Centrocampista"), new Jugador("Fermín", "Centrocampista"),
-                new Jugador("Lewandowski", "Delantero"), new Jugador("Ferran Torres", "Delantero"), new Jugador("Raphinha", "Delantero"),
-                new Jugador("Ansu Fati", "Delantero"), new Jugador("Joao Félix", "Delantero"), new Jugador("Vitor Roque", "Delantero")
+                new Jugador("#5 Iñigo Martínez", "Defensa"), new Jugador("#23 Jules Koundé", "Defensa"), new Jugador("#24 Eric García", "Defensa"),
+                new Jugador("#6 Gavi", "Centrocampista"), new Jugador("#8 Pedri", "Centrocampista"), new Jugador("#16 Fermín Lopez", "Centrocampista"),
+                new Jugador("#17 Marc Casadó", "Centrocampista"), new Jugador("#20 Dani Olmo", "Centrocampista"), new Jugador("#21 Frenkie de Jong", "Centrocampista"),
+                new Jugador("#7 Ferran Torres", "Delantero"), new Jugador("#9 Robert Lewandowski", "Delantero"), new Jugador("#10 Ansu Fekas", "Delantero"),
+                new Jugador("#11 Raphinha", "Delantero"), new Jugador("#18 Pau Víctor", "Delantero"), new Jugador("#19 Lamine Yamal", "Delantero")
             }
         },
         { "FC Barcelona Femenino", new List<Jugador>
             {
-                new Jugador("Sandra Paños", "Portero"), new Jugador("Cata Coll", "Portero"), new Jugador("Gemma Font", "Portero"),
-                new Jugador("Mapi León", "Defensa"), new Jugador("Irene Paredes", "Defensa"), new Jugador("Jana Fernández", "Defensa"),
-                new Jugador("Lucy Bronze", "Defensa"), new Jugador("Ona Batlle", "Defensa"), new Jugador("Ingrid Engen", "Defensa"),
-                new Jugador("Alexia Putellas", "Centrocampista"), new Jugador("Aitana Bonmatí", "Centrocampista"), new Jugador("Patri Guijarro", "Centrocampista"),
-                new Jugador("Keira Walsh", "Centrocampista"), new Jugador("Clàudia Pina", "Centrocampista"), new Jugador("Bruna Vilamala", "Centrocampista"),
-                new Jugador("Caroline Graham", "Delantero"), new Jugador("Asisat Oshoala", "Delantero"), new Jugador("Mariona Caldentey", "Delantero"),
-                new Jugador("Salma Paralluelo", "Delantero"), new Jugador("Geyse Ferreira", "Delantero"), new Jugador("Vicky López", "Delantero")
+                new Jugador("#1 Gemma Font", "Portero"), new Jugador("#13 Cata Coll", "Portero"), new Jugador("#25 Ellie Roebuck", "Portero"),
+                new Jugador("#2 Irene Paredes", "Defensa"), new Jugador("#4 Mapi León", "Defensa"), new Jugador("#5 Jana Fernández", "Defensa"),
+                new Jugador("#8 Marta Torrejón", "Defensa"), new Jugador("#22 Ona Batlle", "Defensa"), new Jugador("#35 Judit Pujols", "Defensa"),
+                new Jugador("#11 Alexia Putellas", "Centrocampista"), new Jugador("#12 Patri Guijarro", "Centrocampista"), new Jugador("#14 Aitana Bonmatí", "Centrocampista"),
+                new Jugador("#19 Vicky Lopez", "Centrocampista"), new Jugador("#23 Ingrid Engen", "Centrocampista"), new Jugador("#24 Esmee Brugts", "Centrocampista"),
+                new Jugador("#7 Salma Paralluelo", "Delantero"), new Jugador("#9 Claudia Pina", "Delantero"), new Jugador("#10 Caroline Graham Hansen", "Delantero"),
+                new Jugador("#16 Fridolina Rolfö", "Delantero"), new Jugador("#17 Ewa Pajor", "Delantero"), new Jugador("#18 Kika Nazareth", "Delantero")
             }
         }
     };
